@@ -1,0 +1,13 @@
+{
+  "name": "level2.2",
+  "version": "1.0.0",
+  "description": "Promises, async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rd /s /q dist && tsc",
+    "start": "node dist/index.js"
+  },
+  "author": "TanyaChorna",
+  "license": "ISC"
+}
